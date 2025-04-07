@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am currently learning python.
+I am currently making a game in python.
 
 
 ## 🌐 Socials:
