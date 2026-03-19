@@ -58,12 +58,12 @@ Boty a propojení systémů pro lepší správu komunity.
 ## 📊 GitHub statistiky
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tvoje-jmeno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvoje-jmeno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=cbd5e1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=filipholubar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipholubar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=cbd5e1" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tvoje-jmeno&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+  <img src="https://streak-stats.demolab.com?user=filipholubar&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
 </div>
 
 ---
