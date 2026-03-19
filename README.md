@@ -73,7 +73,6 @@ Boty a propojení systémů pro lepší správu komunity.
 - stavím svoje portfolio
 - zlepšuju frontend a design
 - tvořím FiveM projekty
-- chci mít silný a reprezentativní GitHub profil
 
 ---
 
