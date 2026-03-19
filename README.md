@@ -5,13 +5,13 @@
 ### Developer • Web Creator • FiveM Scripter
 
 <p>
-  <a href="https://github.com/tvoje-jmeno">
+  <a href="https://github.com/filipholubar">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-0f172a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:tvujemail@example.com">
+  <a href="XXXX">
     <img src="https://img.shields.io/badge/Email-Kontakt-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/tvujinstagram">
+  <a href="XXXX">
     <img src="https://img.shields.io/badge/Instagram-Follow-1e293b?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
